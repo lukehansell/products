@@ -1,0 +1,25 @@
+{
+  "name": "products",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "now",
+    "start": "micro"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukehansell/products.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukehansell/products/issues"
+  },
+  "homepage": "https://github.com/lukehansell/products#readme",
+  "dependencies": {
+    "micro": "^6.1.0",
+    "now": "^2.0.3"
+  }
+}
